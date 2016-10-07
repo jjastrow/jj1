@@ -3,4 +3,4 @@ This is my README. I am just testing how git works.
 
 My first repo in github is jjastrow/jj1
 
-Done for now.
+update to test my SSH key
